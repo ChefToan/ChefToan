@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://stats.cheftoan.com/api?username=ChefToan&theme=default&show_icons=true&count_private=true&hide_border=true&bg_color=1a1f2e&title_color=64b5f6&text_color=e1e8ed&icon_color=42a5f5" alt="ChefToan's GitHub Stats" />
+  <img src="https://stats.cheftoan.com/api?username=ChefToan&theme=default&show_icons=true&count_private=true&hide_border=true&bg_color=0c1014&title_color=58a6ff&text_color=c9d1d9&icon_color=42a5f5" alt="ChefToan's GitHub Stats" />
 </div>
 
 <!--
