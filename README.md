@@ -1,5 +1,6 @@
-<img src="https://stats.cheftoan.com/api?username=ChefToan&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="ChefToan's GitHub Stats" />
-
+<div align="center">
+  <img src="https://stats.cheftoan.com/api?username=ChefToan&theme=default&show_icons=true&count_private=true&hide_border=true" alt="ChefToan's GitHub Stats" />
+</div>
 <!--
 **ChefToan/ChefToan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
